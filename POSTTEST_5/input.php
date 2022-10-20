@@ -18,7 +18,7 @@
             echo 
             "<script>
                 alert('Data Telah Ditambah');
-                document.location.href = 'read.php';
+                document.location.href = 'index.php';
             </script>";
         }
         else{
